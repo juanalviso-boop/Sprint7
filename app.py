@@ -40,4 +40,4 @@ if dist_button:  # al hacer clic en el botón
     # mostrar un gráfico Plotly interactivo
     st.plotly_chart(fig, width="stretch")
 
-st.write('¡Gracias por usar mi app!')
+st.write('¡Gracias por usar mi app! :smile:')  # mensaje de agradecimiento
